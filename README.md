@@ -26,4 +26,5 @@
 ![image](https://user-images.githubusercontent.com/70711319/164968171-362a23cd-1543-4c59-878d-57eb0ba818ea.png)
 
 [Join my Discord server](https://discord.gg/YHsw9aDzG5)
+
 (*) As long as you run this script.
